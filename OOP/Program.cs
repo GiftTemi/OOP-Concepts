@@ -22,7 +22,7 @@ namespace OOP
         // Regular method
         public void sleep()
         {
-            Console.WriteLine("Zzzzz....");
+            Console.WriteLine("Zzzzz...");
         }
     }
 
@@ -53,7 +53,7 @@ namespace OOP
         //Method overriding
         public override void animalSound(string str)
         {
-            Console.WriteLine("Bark....");
+            Console.WriteLine("Bark...");
         }
     }
 }
